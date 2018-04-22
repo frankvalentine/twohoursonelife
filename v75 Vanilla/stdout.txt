@@ -1,0 +1,963 @@
+shcore.dll loaded successfully
+Found SetProcessDpiAwareness function in shcore.dll
+Frame rate = 564.972366 frames/second
+Frame rate = 571.427949 frames/second
+Frame rate = 591.716290 frames/second
+Frame rate = 609.755970 frames/second
+Frame rate = 598.802197 frames/second
+Frame rate = 602.410040 frames/second
+Frame rate = 598.802197 frames/second
+Frame rate = 609.755970 frames/second
+Frame rate = 598.803052 frames/second
+Frame rate = 598.802197 frames/second
+Frame rate = 602.409175 frames/second
+Frame rate = 602.410040 frames/second
+Frame rate = 606.060746 frames/second
+Frame rate = 598.802197 frames/second
+Frame rate = 602.410040 frames/second
+Frame rate = 598.802197 frames/second
+Frame rate = 606.060746 frames/second
+Frame rate = 602.409175 frames/second
+Decompressing took 0.001000 seconds
+Loaded 781 tagged sprites from sprites folder
+Loaded 215 sound IDs from sounds folder
+Decompressing took 0.010000 seconds
+Frame rate = 52.854124 frames/second
+Loaded 662 animations from animations folder
+Finished loading animation bank in 0.371000 sec
+Decompressing took 0.007000 seconds
+Object id 793 (The Apocalypse) seen as an apocalypse trigger
+Loaded 695 objects from objects folder
+  Auto-generated 330 'used' objects
+Finished loading object bank in 1.062000 sec
+Decompressing took -0.000000 seconds
+Loaded 21 categories from categories folder
+Finished loading category bank in 1.384000 sec
+Decompressing took 0.001000 seconds
+Loaded 964 transitions from transitions folder
+Auto-generated 388 transitions based on categories
+Auto-modified 151 transitions based generic use transitions and auto-added 0 last use generic transitions (7 objects had generic use transitions defined).
+Auto-generated 1487 transitions based on used objects, removing 171 transitions in the process
+Frame rate = 32.927231 frames/second
+Frame rate = 62.539088 frames/second
+Starting fetching server URL from reflector http://onehouronelife.com/reflector/server.php
+
+Starting web request 0 [GET http://onehouronelife.com/reflector/server.php?action=reflect&email=sammoh@gmail.com&user_id=0 (null)]
+
+Web result = server2.onehouronelife.com
+8005
+75
+http://onehouronelife.com/updateServer/server.php
+OK
+Got server address: server2.onehouronelife.com:8005
+Frame rate = 60.790274 frames/second
+Sending message to server: KA 0 0#
+Got length 21 message
+SN
+85/200
+1141954
+75
+
+Sending message to server: LOGIN sammoh@gmail.com                                                                 7DB0E2EBF082FF6A5AD4C8D4B9E5F51F8796078B 5263552060BD725E7C3F3130F5CB5D597C336356#
+Got length 9 message
+ACCEPTED
+
+Got length 31 message
+MC
+32 30 -27680 41883
+6055 594
+
+Got map chunk with bin size 6055, compressed size 594
+Using this first chunk center as our global offset:  -27680, 41883
+Map center = 16,15
+Got compressed message header:
+CM
+8650 2284
+
+
+Got length 8650 message
+PU
+225616 351 0 0 -23275 35184 0 0 0 0 -1 0.07 1 0 -23274 35184 45.98 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225635 351 0 0 -27126 27119 292,402,402 0 -27138 27067 -1 0.07 0 0 -27127 27123 43.11 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225641 352 0 0 -18341 25492 292,180,180,180 0 -18341 25492 -1 0.84 0 0 -18394 25563 42.54 60.00 3.75 0;0;768;768;0;0 0 0 -1
+225648 351 0 0 8930 34549 0 0 0 0 -1 0.07 0 0 8926 34559 41.91 60.00 3.75 0;0;768;768;0;198,402,402,402 0 0 -1
+225657 351 0 0 -18371 23561 185 0 -18371 23561 -1 0.18 1 0 -18376 23559 40.70 60.00 3.75 0;712;0;0;0;0 0 0 -1
+225681 355 0 0 1354 45980 292,402,402,402 0 1354 45980 -1 0.12 1 0 1337 46030 37.71 60.00 3.75 0;0;0;0;200;198,31 0 0 -1
+225708 19 0 0 -18391 25587 0 0 0 0 -1 0.13 1 0 -18394 25587 34.90 60.00 3.75 0;0;768;768;200;0 0 0 -1
+225732 352 0 0 -12058 33803 0 0 0 0 -1 0.26 0 0 -12057 33803 32.87 60.00 3.75 0;202;0;0;0;198,277 0 0 -1
+225735 350 0 0 -18420 25450 31 0 0 0 844 0.02 1 0 -18419 25450 32.77 60.00 3.75 0;0;0;0;0;198,402,31,31,31 0 0 -1
+225736 353 0 0 8945 34522 0 0 0 0 -1 1.00 1 0 8945 34522 32.77 60.00 3.75 199;202;203;203;200;198,560,148,560 0 0 -1
+225750 355 0 0 8942 34496 292,223,223,223 0 8942 34496 -1 0.45 1 0 8943 34521 31.54 60.00 3.75 0;202;0;0;200;198,34,402,402 0 0 -1
+225763 353 0 0 -23575 29046 0 0 0 0 -1 0.14 1 0 -23574 29046 30.29 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225764 19 0 0 -18393 25588 0 0 0 0 -1 0.17 1 0 -18394 25588 30.14 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225780 350 0 0 1341 46028 0 0 0 0 -1 0.11 1 0 1339 46028 28.80 60.00 3.75 0;202;0;0;200;0 0 0 -1
+225790 19 0 0 -20715 36029 0 0 0 0 -1 0.07 1 0 -20715 36030 27.85 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225813 19 0 0 1340 46022 -226053 0 1340 46022 -1 0.56 1 0 1340 46022 25.81 60.00 3.75 0;0;0;0;200;0 0 0 -1
+225819 19 0 0 -17501 52371 -226070 0 -17501 52371 -1 0.19 1 0 -17500 52371 39.43 60.00 3.75 199;564;203;203;200;198 0 0 -1
+225820 354 0 0 -17495 52375 0 0 0 0 -1 0.08 0 0 -17500 52377 25.36 60.00 3.75 0;0;0;0;200;0 0 0 -1
+225825 350 0 0 -24044 41305 0 0 0 0 -1 0.08 1 0 -24070 41303 39.22 60.00 3.75 0;0;0;0;200;0 0 0 -1
+225829 350 0 0 -18374 23560 -226072 0 -18374 23560 -1 0.35 1 0 -18377 23559 24.76 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225832 352 0 0 -18393 25588 0 0 0 0 85 0.17 0 0 -18391 25590 24.52 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225840 347 0 0 -23571 29042 402 0 -23571 29042 -1 0.06 0 0 -23559 29035 23.70 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225847 347 0 0 -25862 39676 33 0 -25862 39676 -1 0.07 0 0 -25861 39676 21.93 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225871 354 0 0 -17758 24666 292,34 0 -17768 24686 -1 0.24 0 0 -17763 24682 18.88 60.00 3.75 199;0;0;0;0;0 0 0 -1
+225877 352 0 0 8951 34523 484 0 8951 34523 -1 0.21 0 0 8954 34522 18.05 60.00 3.75 199;202;0;0;200;198,402,34,34 0 0 -1
+225878 355 0 0 -12059 33792 402 0 0 0 400 0.33 1 0 -12059 33792 17.99 60.00 3.75 0;202;0;0;200;198,275 0 0 -1
+225879 353 0 0 -17504 52367 356 0 0 0 87 0.08 0 0 -17505 52361 17.95 60.00 3.75 0;0;0;0;200;0 0 0 -1
+225882 352 0 0 -12063 33802 0 0 0 0 -1 0.13 1 0 -12061 33804 17.62 60.00 3.75 0;202;0;0;200;198,883,875 0 0 -1
+225903 354 0 0 -17472 52357 0 0 0 0 173 0.13 1 0 -17473 52357 15.73 60.00 3.75 0;201;203;203;200;198,402,402,402 0 0 -1
+225905 350 0 0 -18384 23556 292 0 0 0 357 0.18 1 0 -18376 23559 15.35 60.00 3.75 0;712;0;0;0;198,402,402,402 0 0 -1
+225912 352 0 0 -12062 33794 0 0 0 0 -1 0.08 1 0 -12064 33797 14.85 60.00 3.75 0;0;0;0;200;198,882,883 0 0 -1
+225913 350 0 0 -23274 35185 -226090 0 -23271 35180 -1 0.07 1 0 -23275 35185 14.64 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225914 351 0 0 -24100 41293 292,210,210 0 -24103 41293 -1 0.07 1 0 -24063 41301 14.60 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225915 347 0 0 1291 46030 292,34,768 0 1291 46030 -1 0.13 0 0 1283 46029 14.47 60.00 3.75 0;201;203;203;200;198,402,402 0 0 -1
+225919 19 0 0 8946 34524 0 0 0 0 -1 0.56 1 0 8946 34522 13.93 60.00 3.75 0;0;0;0;200;0 0 0 -1
+225927 354 0 0 -20730 36054 395 0 0 0 -1 0.07 1 0 -20731 36054 13.00 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225940 19 0 0 8946 34526 0 0 0 0 237 0.44 0 0 8950 34528 12.13 60.00 3.75 0;0;0;0;200;198,277 0 0 -1
+225943 351 0 0 -18377 25593 292,58,58,58 0 -18377 25593 -1 0.08 0 0 -18379 25591 11.86 60.00 3.75 0;0;0;0;200;0 0 0 -1
+225949 355 0 0 -24111 41212 124 0 0 0 123 0.07 1 0 -24110 41212 11.21 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225953 352 0 0 8950 34531 0 0 0 0 -1 0.08 1 0 8949 34531 10.76 60.00 3.75 0;0;0;0;200;0 0 0 -1
+225957 354 0 0 -23269 35183 0 0 0 0 -1 0.07 1 0 -23273 35183 10.01 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225958 352 0 0 8944 34524 0 0 0 0 -1 0.24 1 0 8943 34524 9.94 60.00 3.75 0;201;0;0;200;198 0 0 -1
+225960 352 0 0 1336 46073 292,395,395,395 0 1336 46073 -1 0.61 0 0 1339 46036 9.86 60.00 3.75 0;0;0;768;200;198,395,395 0 0 -1
+225962 352 0 0 8970 34545 0 0 0 0 -1 0.22 0 0 8951 34520 9.81 60.00 3.75 199;201;203;203;200;198,148 0 0 -1
+225964 350 0 0 8947 34537 292 0 0 0 357 0.11 1 0 8947 34536 9.61 60.00 3.75 0;202;0;0;200;198,883 0 0 -1
+225967 350 0 0 -18315 23540 808 0 0 0 805 0.07 0 0 -18348 23558 9.11 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225970 352 0 0 -17498 52372 292 0 -17498 52372 -1 0.10 1 0 -17499 52371 8.82 60.00 3.75 199;0;0;0;200;0 0 0 -1
+225975 354 0 0 -27085 27158 0 0 0 0 -1 0.07 1 0 -27085 27158 8.35 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225979 355 0 0 -25331 43718 292,34,40,395 0 -25330 43714 -1 0.07 0 0 -25342 43734 8.15 60.00 3.75 0;0;0;0;0;0 0 0 -1
+225983 351 0 0 1319 46142 292,160 0 1319 46142 -1 0.08 0 0 1313 46142 7.74 60.00 3.75 0;0;0;0;200;0 0 0 -1
+225989 353 0 0 -20733 36053 0 0 0 0 -1 0.07 0 0 -20735 36052 7.02 60.00 3.28 0;0;0;0;0;0 0 0 -1
+225992 351 0 0 1318 46025 292,58 0 1318 46025 -1 0.34 0 0 1296 46037 6.62 60.00 3.28 0;0;768;768;0;0 0 0 -1
+225998 354 0 0 -17475 52349 292 0 -17475 52349 -1 0.07 0 0 -17464 52375 6.22 60.00 3.28 0;0;0;0;0;0 0 0 -1
+226009 350 0 0 -23566 29055 68 0 -23566 29055 -1 0.08 0 0 -23572 29049 5.28 60.00 3.28 0;0;0;0;128;0 0 0 -1
+226011 353 0 0 1340 46029 0 0 0 0 -1 0.07 0 0 1342 46026 5.04 60.00 3.28 0;0;0;0;0;0 0 0 -1
+226012 355 0 0 -18373 23561 402 0 0 0 896 0.07 0 0 -18373 23561 5.03 60.00 3.28 0;0;0;768;0;0 0 0 -1
+226013 350 0 0 -24187 44879 395 0 0 0 36 0.50 1 0 -24188 44879 19.00 60.00 3.75 0;0;0;0;0;0 0 0 -1
+226014 353 0 0 -24122 44769 31 0 0 0 846 0.51 0 0 -24112 44689 4.98 60.00 3.28 0;0;0;0;0;0 0 0 -1
+226027 350 0 0 -23217 40739 292,127,127,127 0 -23217 40739 -1 0.07 0 0 -23228 40754 18.17 60.00 3.75 0;0;0;0;0;0 0 0 -1
+226044 352 0 0 -17505 52367 0 0 0 0 -1 0.07 1 0 -17491 52367 3.15 60.00 3.28 0;0;0;0;0;0 0 0 -1
+226052 352 0 0 -17489 52375 0 0 0 0 -1 0.07 1 0 -17500 52370 2.73 60.00 3.28 0;0;0;0;0;0 0 0 -1
+226053 353 0 0 1339 46022 0 0 0 0 -1 0.49 0 0 1340 46022 2.69 60.00 3.28 0;0;0;0;0;0 0 0 -1
+226059 353 0 0 -30300 42092 -226085 0 -30300 42092 -1 0.32 0 0 -30281 42110 16.42 60.00 3.75 0;0;0;0;0;0 0 0 -1
+226061 355 0 0 0 0 0 0 0 0 -1 0.07 1 0 1341 46028 2.20 60.00 2.81 0;0;0;0;0;0 0 0 -1
+226067 350 0 0 -23573 29045 0 0 0 0 -1 0.28 1 0 -23575 29046 1.93 60.00 2.81 0;0;0;0;0;0 0 0 -1
+226069 355 0 0 -23217 40722 0 0 0 0 -1 0.07 0 0 -23223 40752 1.82 60.00 2.81 0;0;0;0;0;0 0 0 -1
+226070 351 0 0 0 0 0 0 0 0 -1 0.07 0 0 -17501 52371 1.80 60.00 2.81 0;0;0;0;0;0 0 0 -1
+226072 351 0 0 0 0 0 0 0 0 -1 0.08 0 0 -18374 23560 1.66 60.00 2.81 0;0;0;0;0;0 0 0 -1
+226074 351 0 0 -28807 40397 57 0 0 0 50 0.07 1 0 -28825 40402 15.63 60.00 3.75 0;0;0;0;0;0 0 0 -1
+226076 353 0 0 -27448 38844 0 0 0 0 -1 0.21 1 0 -27449 38844 15.54 60.00 3.75 0;0;0;0;0;0 0 0 -1
+226077 19 0 0 -27447 38845 0 0 0 0 -1 0.40 1 0 -27448 38844 1.52 60.00 2.81 0;0;0;0;0;0 0 0 -1
+226078 351 0 0 -28037 40861 0 0 0 0 -1 0.07 1 0 -28037 40861 15.46 60.00 3.75 0;0;0;0;0;0 0 0 -1
+226081 350 0 0 0 0 0 0 0 0 -1 0.52 1 0 8945 34522 1.14 60.00 2.81 0;0;0;0;0;198 0 0 -1
+226082 347 0 0 0 0 0 0 0 0 -1 0.07 0 0 -24187 44879 1.12 60.00 2.81 0;0;0;0;0;0 0 0 -1
+226085 350 0 0 0 0 0 0 0 0 -1 0.38 0 0 -30300 42092 0.97 60.00 2.81 0;0;0;0;0;0 0 0 -1
+226088 352 0 0 0 0 0 0 0 0 -1 0.35 1 0 -18393 25588 0.67 60.00 2.81 0;0;0;0;0;0 0 0 -1
+226090 351 0 0 0 0 0 0 0 0 -1 0.07 0 0 -23271 35180 0.47 60.00 2.81 0;0;0;0;0;0 0 0 -1
+226091 350 0 0 -29684 41965 -226092 0 -29684 41965 -1 0.07 1 0 -29699 41961 14.37 60.00 3.75 0;0;0;0;0;0 0 0 -1
+226092 353 0 0 0 0 0 0 0 0 -1 0.07 0 0 -29684 41965 0.37 60.00 2.81 0;0;0;0;0;0 0 0 -1
+226093 350 0 0 0 0 0 0 0 0 -1 0.14 1 0 -23574 29046 0.25 60.00 2.81 0;0;0;0;0;0 0 0 -1
+226094 351 0 0 0 0 0 0 0 0 -1 0.07 0 0 -24051 41304 0.17 60.00 2.81 0;0;0;0;0;0 0 0 -1
+226095 350 0 0 0 0 0 0 0 0 -1 0.07 1 0 -27664 41898 14.09 60.00 3.75 0;0;0;0;0;0 0 0 -1
+226096 19 0 0 0 0 0 0 0 0 -1 0.07 0 0 -28824 40403 0.06 60.00 2.81 0;0;0;0;0;0 0 0 -1
+226097 355 0 0 0 0 0 0 0 0 -1 0.07 1 0 -27664 41898 0.00 60.00 2.81 0;0;0;0;0;0 0 0 -1
+#
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=4406, pY=-6699, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=542, heldOry=-14816, pX=553, pY=-14760, heldTransSrcID=-1, holdingString=292,402,402
+PLAYER_UPDATE with heldOrVal=0, heldOrx=9339, heldOry=-16391, pX=9286, pY=-16320, heldTransSrcID=-1, holdingString=292,180,180,180
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=36606, pY=-7324, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=9309, heldOry=-18322, pX=9304, pY=-18324, heldTransSrcID=-1, holdingString=185
+PLAYER_UPDATE with heldOrVal=0, heldOrx=29034, heldOry=4097, pX=29017, pY=4147, heldTransSrcID=-1, holdingString=292,402,402,402
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=9286, pY=-16296, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=15623, pY=-8080, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=9261, pY=-16433, heldTransSrcID=844, holdingString=31
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=36625, pY=-7361, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=36622, heldOry=-7387, pX=36623, pY=-7362, heldTransSrcID=-1, holdingString=292,223,223,223
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=4106, pY=-12837, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=9286, pY=-16295, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=29019, pY=4145, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=6965, pY=-5853, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=29020, heldOry=4139, pX=29020, pY=4139, heldTransSrcID=-1, holdingString=-226053
+PLAYER_UPDATE with heldOrVal=0, heldOrx=10179, heldOry=10488, pX=10180, pY=10488, heldTransSrcID=-1, holdingString=-226070
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=10180, pY=10494, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=3610, pY=-580, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=9306, heldOry=-18323, pX=9303, pY=-18324, heldTransSrcID=-1, holdingString=-226072
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=9289, pY=-16293, heldTransSrcID=85, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=4109, heldOry=-12841, pX=4121, pY=-12848, heldTransSrcID=-1, holdingString=402
+PLAYER_UPDATE with heldOrVal=0, heldOrx=1818, heldOry=-2207, pX=1819, pY=-2207, heldTransSrcID=-1, holdingString=33
+PLAYER_UPDATE with heldOrVal=0, heldOrx=9912, heldOry=-17197, pX=9917, pY=-17201, heldTransSrcID=-1, holdingString=292,34
+PLAYER_UPDATE with heldOrVal=0, heldOrx=36631, heldOry=-7360, pX=36634, pY=-7361, heldTransSrcID=-1, holdingString=484
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=15621, pY=-8091, heldTransSrcID=400, holdingString=402
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=10175, pY=10478, heldTransSrcID=87, holdingString=356
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=15619, pY=-8079, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=10207, pY=10474, heldTransSrcID=173, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=9304, pY=-18324, heldTransSrcID=357, holdingString=292
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=15616, pY=-8086, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=4409, heldOry=-6703, pX=4405, pY=-6698, heldTransSrcID=-1, holdingString=-226090
+PLAYER_UPDATE with heldOrVal=0, heldOrx=3577, heldOry=-590, pX=3617, pY=-582, heldTransSrcID=-1, holdingString=292,210,210
+PLAYER_UPDATE with heldOrVal=0, heldOrx=28971, heldOry=4147, pX=28963, pY=4146, heldTransSrcID=-1, holdingString=292,34,768
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=36626, pY=-7361, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=6949, pY=-5829, heldTransSrcID=-1, holdingString=395
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=36630, pY=-7355, heldTransSrcID=237, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=9303, heldOry=-16290, pX=9301, pY=-16292, heldTransSrcID=-1, holdingString=292,58,58,58
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=3570, pY=-671, heldTransSrcID=123, holdingString=124
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=36629, pY=-7352, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=4407, pY=-6700, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=36623, pY=-7359, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=29016, heldOry=4190, pX=29019, pY=4153, heldTransSrcID=-1, holdingString=292,395,395,395
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=36631, pY=-7363, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=36627, pY=-7347, heldTransSrcID=357, holdingString=292
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=9332, pY=-18325, heldTransSrcID=805, holdingString=808
+PLAYER_UPDATE with heldOrVal=0, heldOrx=10182, heldOry=10489, pX=10181, pY=10488, heldTransSrcID=-1, holdingString=292
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=595, pY=-14725, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=2350, heldOry=1831, pX=2338, pY=1851, heldTransSrcID=-1, holdingString=292,34,40,395
+PLAYER_UPDATE with heldOrVal=0, heldOrx=28999, heldOry=4259, pX=28993, pY=4259, heldTransSrcID=-1, holdingString=292,160
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=6945, pY=-5831, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=28998, heldOry=4142, pX=28976, pY=4154, heldTransSrcID=-1, holdingString=292,58
+PLAYER_UPDATE with heldOrVal=0, heldOrx=10205, heldOry=10466, pX=10216, pY=10492, heldTransSrcID=-1, holdingString=292
+PLAYER_UPDATE with heldOrVal=0, heldOrx=4114, heldOry=-12828, pX=4108, pY=-12834, heldTransSrcID=-1, holdingString=68
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=29022, pY=4143, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=9307, pY=-18322, heldTransSrcID=896, holdingString=402
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=3492, pY=2996, heldTransSrcID=36, holdingString=395
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=3568, pY=2806, heldTransSrcID=846, holdingString=31
+PLAYER_UPDATE with heldOrVal=0, heldOrx=4463, heldOry=-1144, pX=4452, pY=-1129, heldTransSrcID=-1, holdingString=292,127,127,127
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=10189, pY=10484, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=10180, pY=10487, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=29020, pY=4139, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=-2620, heldOry=209, pX=-2601, pY=227, heldTransSrcID=-1, holdingString=-226085
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=29021, pY=4145, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=4105, pY=-12837, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=4457, pY=-1131, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=10179, pY=10488, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=9306, pY=-18323, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=-1145, pY=-1481, heldTransSrcID=50, holdingString=57
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=231, pY=-3039, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=232, pY=-3039, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=-357, pY=-1022, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=36625, pY=-7361, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=3493, pY=2996, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=-2620, pY=209, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=9287, pY=-16295, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=4409, pY=-6703, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=-2004, heldOry=82, pX=-2019, pY=78, heldTransSrcID=-1, holdingString=-226092
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=-2004, pY=82, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=4106, pY=-12837, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=3629, pY=-579, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=16, pY=15, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=-1144, pY=-1480, heldTransSrcID=-1, holdingString=0
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=16, pY=15, heldTransSrcID=-1, holdingString=0
+Got first PLAYER_UPDATE message, our ID = 226097
+Got compressed message header:
+CM
+1524 633
+
+
+Got length 1524 message
+PM
+225635 -27127 27121 0.533 0.000 0 0 1 0 2
+225641 -18393 25562 0.644 0.431 0 -1 1 -1 2
+225648 8927 34557 1.177 0.500 0 -1 1 -1 2 -1 3 -1 4
+225732 -12057 33803 0.267 0.172 0 0 -1
+225820 -17499 52376 1.021 0.636 0 -1 1 -2 2 -2 3
+225832 -18392 25589 0.644 0.281 0 1 1 1 2
+225840 -23559 29035 1.333 1.285 0 0 0 1 0 2 0 3 0 4 0
+225847 -25863 39677 0.644 0.043 0 1 -1 2 -1
+225871 -17762 24680 1.021 0.403 0 -1 1 -1 2 -2 3
+225877 8953 34523 0.644 0.254 0 1 -1 1 -2
+225879 -17506 52362 0.644 0.307 0 1 -1 1 -2
+225915 1284 46030 1.177 0.968 0 -1 -1 -2 -1 -3 -1 -4 -1
+225940 8946 34525 2.198 0.896 0 1 1 2 2 3 3 4 3 5 3 6 3 7 3
+225943 -18378 25592 0.644 0.271 0 -1 -1 -1 -2
+225960 1339 46036 0.754 0.696 0 1 1 2 2
+225962 8952 34520 0.800 0.448 0 -1 0 -2 0 -3 0
+225967 -18347 23557 0.910 0.483 0 -1 1 -1 2 -1 3
+225979 -25342 43734 0.644 0.514 0 -1 1 -1 2
+225983 1314 46143 1.021 0.841 0 -1 -1 -2 -2 -3 -2
+225989 -20734 36053 0.736 0.524 0 -1 -1 -2 -1
+225992 1298 46035 1.167 0.567 0 -1 1 -2 2 -3 2
+225998 -17463 52374 1.472 1.265 0 -1 1 -1 2 -1 3 -2 4
+226009 -23572 29050 0.305 0.140 0 0 -1
+226011 1342 46026 1.167 1.011 0 1 -1 1 -2 2 -3
+226012 -18373 23561 0.305 0.220 0 0 -1
+226014 -24110 44691 1.598 0.821 0 -1 -1 -2 -2 -3 -3 -4 -3
+226027 -23228 40754 0.533 0.462 0 1 0 2 0
+226059 -30280 42109 0.644 0.215 0 -1 1 -1 2
+226069 -23222 40751 2.072 1.836 0 -1 1 -2 1 -3 2 -4 2 -4 3
+226082 -24184 44878 1.570 0.504 0 -1 1 -2 1 -3 1 -4 1
+226094 -24050 41304 1.778 1.501 0 -1 0 -2 0 -3 0 -4 0 -5 0
+226096 -28824 40403 0.356 0.226 0 0 -1
+#
+Manually forced
+updateMoveSpeed sees etaSec of 0.000000, too low, upping to 0.1 sec
+fixed speed = 0.166667
+Manually forced
+fixed speed = 0.078742
+Manually forced
+fixed speed = 0.066667
+Manually forced
+fixed speed = 0.096899
+Manually forced
+fixed speed = 0.056197
+Manually forced
+fixed speed = 0.059312
+Removing loop with 1 elements
+Manually forced
+fixed speed = 0.051881
+Manually forced
+updateMoveSpeed sees etaSec of 0.043000, too low, upping to 0.1 sec
+fixed speed = 0.166667
+Manually forced
+fixed speed = 0.083307
+Manually forced
+fixed speed = 0.065617
+Manually forced
+fixed speed = 0.054289
+Manually forced
+fixed speed = 0.070201
+Manually forced
+fixed speed = 0.055804
+Manually forced
+fixed speed = 0.061501
+Manually forced
+fixed speed = 0.067732
+Manually forced
+fixed speed = 0.074405
+Manually forced
+fixed speed = 0.069013
+Manually forced
+fixed speed = 0.067740
+Manually forced
+fixed speed = 0.069281
+Manually forced
+fixed speed = 0.066618
+Manually forced
+fixed speed = 0.062191
+Manually forced
+fixed speed = 0.056473
+Manually forced
+fixed speed = 0.119048
+Manually forced
+fixed speed = 0.054490
+Manually forced
+fixed speed = 0.075758
+Manually forced
+fixed speed = 0.070819
+Manually forced
+fixed speed = 0.072150
+Manually forced
+fixed speed = 0.077519
+Manually forced
+fixed speed = 0.045056
+Manually forced
+fixed speed = 0.066138
+Manually forced
+fixed speed = 0.055519
+Manually forced
+fixed speed = 0.073746
+Got compressed message header:
+CM
+3231 540
+
+
+Playing 0 pending received messages for 225635
+Reached dest -0.001000 seconds early
+Playing 0 pending received messages for 225847
+Reached dest 0.043000 seconds early
+Playing 0 pending received messages for 226009
+Reached dest 0.140000 seconds early
+Got length 3231 message
+LN
+225616 225535
+225635 225442
+225641 225496 225251 225086 224904
+225648 225509 225166 224960 224593 224412 224186 223799 223618 223532 223312 223145 223003 222815
+225657 225375 225114 224931 224914
+225681 225448 225093 224756 224621 224510 224249 224046
+225708 225496 225251 225086 224904
+225732 225492 225136 225019 224726 224649
+225735 225533 225251 225086 224904
+225736 225460 225166 224960 224593 224412 224186 223799 223618 223532 223312 223145 223003 222815
+225750 225603 225460 225166 224960 224593 224412 224186 223799 223618 223532 223312 223145 223003 222815
+225763 225610 225437
+225764 225496 225251 225086 224904
+225780 225562 225387 225093 224756 224621 224510 224249 224046
+225790 225767
+225813 225463 225209 225093 224756 224621 224510 224249 224046
+225819
+225820 225819
+225825
+225829 225618 225375 225114 224931 224914
+225832 225496 225251 225086 224904
+225840 225610 225437
+225847 225842
+225871 225521 225234 224931 224914
+225877 225603 225460 225166 224960 224593 224412 224186 223799 223618 223532 223312 223145 223003 222815
+225878 225734 225608 225232 225019 224726 224649
+225879 225819
+225882 225733 225428 225232 225019 224726 224649
+225903 225819
+225905 225657 225375 225114 224931 224914
+225912 225733 225428 225232 225019 224726 224649
+225913 225616 225535
+225914 225825
+225915 225780 225562 225387 225093 224756 224621 224510 224249 224046
+225919 225603 225460 225166 224960 224593 224412 224186 223799 223618 223532 223312 223145 223003 222815
+225927 225790 225767
+225940 225736 225460 225166 224960 224593 224412 224186 223799 223618 223532 223312 223145 223003 222815
+225943 225764 225496 225251 225086 224904
+225949 225825
+225953 225603 225460 225166 224960 224593 224412 224186 223799 223618 223532 223312 223145 223003 222815
+225957 225616 225535
+225958 225691 225460 225166 224960 224593 224412 224186 223799 223618 223532 223312 223145 223003 222815
+225960 225813 225463 225209 225093 224756 224621 224510 224249 224046
+225962 225736 225460 225166 224960 224593 224412 224186 223799 223618 223532 223312 223145 223003 222815
+225964 225794 225460 225166 224960 224593 224412 224186 223799 223618 223532 223312 223145 223003 222815
+225967 225657 225375 225114 224931 224914
+225970 225819
+225975 225635 225442
+225979 225978
+225983 225813 225463 225209 225093 224756 224621 224510 224249 224046
+225989 225790 225767
+225992 225813 225463 225209 225093 224756 224621 224510 224249 224046
+225998 225819
+226009 225763 225610 225437
+226011 225813 225463 225209 225093 224756 224621 224510 224249 224046
+226012 225829 225618 225375 225114 224931 224914
+226013
+226014 226013
+226027
+226044 225879 225819
+226052 225819
+226053 225813 225463 225209 225093 224756 224621 224510 224249 224046
+226059
+226061 225780 225562 225387 225093 224756 224621 224510 224249 224046
+226067 225763 225610 225437
+226069 226027
+226070 225819
+226072 225829 225618 225375 225114 224931 224914
+226074
+226076
+226077 226076
+226078
+226081 225736 225460 225166 224960 224593 224412 224186 223799 223618 223532 223312 223145 223003 222815
+226082 226013
+226085 226059
+226088 225764 225496 225251 225086 224904
+226090 225913 225616 225535
+226091
+226092 226091
+226093 225763 225610 225437
+226094 225825
+226095
+226096 226074
+226097 226095
+#
+Got compressed message header:
+CM
+995 463
+
+
+Got length 995 message
+NM
+225616 PRINCESS AMAYA
+225641 THOMAS MEYERS
+225657 JENNY GOOGINS
+225681 JOEY
+225735 HUMAIRA MEYERS
+225736 PEACE GUNN
+225750 ROB GUNN
+225763 TINA WHOLEY
+225764 RAINBOW MEYERS
+225780 HOPE
+225819 EVE JOHNSON
+225820 JOHN JOHNSON
+225825 EVE DELIZ
+225829 WINTER GOOGINS
+225832 ANDREW MEYERS
+225877 BRANDON GUNN
+225878 JON
+225879 JOAN JOHNSON
+225882 BJORN
+225903 JON JOHNSON
+225905 MAYBEL GOOGINS
+225912 RAGNAR
+225913 NOX AMAYA
+225914 SAMMY DELIZ
+225915 BILLY
+225919 JUNO GUNN
+225927 JULI
+225943 FAWN MEYERS
+225949 DONATELLA DELIZ
+225953 TOMMY GUNN
+225960 JACK
+225964 LIA GUNN
+225967 FORD GOOGINS
+225970 JOAQUIN JOHNSON
+225975 AIRA
+225979 HENRY HILLBERRY
+225983 LISA
+225992 ALICE
+225998 JERALD JOHNSON
+226009 MAGGIE WHOLEY
+226011 MISSY
+226012 SUMMER GOOGINS
+226013 EVE JUNE
+226014 MAYES JUNE
+226044 DANE JOHNSON
+226052 JAKE JOHNSON
+226053 VICKY
+226059 EVE ROGERS
+226061 FITZWILLIAM
+226067 DIEM WHOLEY
+226070 JAYNE JOHNSON
+226081 BRAVE GUNN
+226082 JAMES JUNE
+226085 JOLYN ROGERS
+226088 AUSTIN MEYERS
+#
+Got length 19 message
+FX
+2 4 0 0 2.81 -1
+
+Our food = 2/4
+Got length 43 message
+PM
+226095 -27664 41898 0.377 0.376 0 -1 -1
+
+Manually forced
+fixed speed = 0.062688
+Playing 0 pending received messages for 225732
+Reached dest 0.011000 seconds early
+Playing 0 pending received messages for 225641
+Reached dest 0.240000 seconds early
+Playing 0 pending received messages for 226059
+Reached dest 0.025000 seconds early
+Playing 0 pending received messages for 226012
+Reached dest 0.014000 seconds early
+Playing 0 pending received messages for 226096
+Reached dest 0.020000 seconds early
+Playing 0 pending received messages for 225877
+Reached dest 0.015000 seconds early
+Playing 0 pending received messages for 225832
+Reached dest 0.027000 seconds early
+Playing 0 pending received messages for 225943
+Reached dest 0.017000 seconds early
+Playing 0 pending received messages for 225989
+Reached dest 0.270000 seconds early
+Playing 0 pending received messages for 226082
+Reached dest 0.250000 seconds early
+Playing 0 pending received messages for 225871
+Reached dest 0.132000 seconds early
+Playing 0 pending received messages for 225992
+Reached dest 0.296000 seconds early
+Playing 0 pending received messages for 225879
+Reached dest 0.021000 seconds early
+Playing 0 pending received messages for 226095
+Reached dest 0.024000 seconds early
+Playing 0 pending received messages for 225962
+Reached dest 0.033000 seconds early
+Got length 91 message
+PU
+226095 350 0 0 0 0 0 0 0 0 -1 0.07 1 0 -27665 41897 14.09 60.00 3.75 0;0;0;0;0;0 0 0 -1
+
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=15, pY=14, heldTransSrcID=-1, holdingString=0
+Playing 0 pending received messages for 226027
+Reached dest 0.032000 seconds early
+Playing 0 pending received messages for 225967
+Reached dest 0.037000 seconds early
+Playing 0 pending received messages for 225648
+Reached dest 0.022000 seconds early
+Playing 0 pending received messages for 226014
+Reached dest 0.296000 seconds early
+Playing 0 pending received messages for 225983
+Reached dest 0.299000 seconds early
+Playing 0 pending received messages for 225979
+Reached dest -0.047000 seconds early
+Playing 0 pending received messages for 225960
+Reached dest 0.042000 seconds early
+Playing 0 pending received messages for 225820
+Reached dest -0.034000 seconds early
+Playing 0 pending received messages for 225915
+Reached dest 0.264000 seconds early
+Playing 0 pending received messages for 225940
+Reached dest 0.050000 seconds early
+Playing 0 pending received messages for 225998
+Reached dest 0.308000 seconds early
+Got length 23 message
+NM
+226072 MOON GOOGINS
+
+Playing 0 pending received messages for 226011
+Reached dest -0.102000 seconds early
+Playing 0 pending received messages for 226094
+Reached dest 0.325000 seconds early
+Playing 0 pending received messages for 225840
+Reached dest 0.054000 seconds early
+Frame rate = 61.387347 frames/second
+Playing 0 pending received messages for 226069
+Reached dest 0.290000 seconds early
+Frame rate = 62.034740 frames/second
+Got length 100 message
+PM
+226076 -27453 38840 1.775 1.775 0 -1 1 -2 2 -3 1 -4 2 -5 2
+226095 -27665 41897 0.267 0.267 0 0 1
+
+Manually forced
+fixed speed = 0.055062
+Manually forced
+fixed speed = 0.062422
+Got compressed message header:
+CM
+1075 340
+
+
+Got length 1075 message
+MX
+-24075 41289 0 703 -1 -24077 41287 2.000000
+-24077 41287 0 0 -1
+-25335 43742 0 703 -1 -25333 43740 2.000000
+-25333 43740 0 0 -1
+-27652 41903 0 165 -1
+-28048 40877 0 707 -1 -28046 40879 2.000000
+-28046 40879 0 0 -1
+-28022 40861 0 166 -1
+-28018 40865 0 166 -1
+-18433 25456 0 707 -1 -18435 25454 2.000000
+-18435 25454 0 0 -1
+-24133 44671 0 703 -1 -24135 44669 2.000000
+-24135 44669 0 0 -1
+-24086 44686 0 947 -1 -24088 44686 4.000000
+-24088 44686 0 0 -1
+-25323 43748 0 703 -1 -25325 43746 2.000000
+-25325 43746 0 0 -1
+-18424 25452 0 703 -1 -18422 25450 2.000000
+-18422 25450 0 0 -1
+-18417 25454 0 707 -1 -18419 25454 2.000000
+-18419 25454 0 0 -1
+-24094 44691 0 947 -1 -24096 44691 4.000000
+-24096 44691 0 0 -1
+-24090 44712 0 703 -1 -24088 44710 2.000000
+-24088 44710 0 0 -1
+-27668 41886 0 165 -1
+-24200 44870 0 418 -1 -24196 44874 4.000000
+-24196 44874 0 0 -1
+-29705 41949 0 703 -1 -29702 41946 2.000000
+-29702 41946 0 0 -1
+-12056 33793 0 843 -1
+-28025 40865 0 165 -1
+-24122 44690 0 165 -1
+-24071 41309 0 51 -1
+-24124 44702 0 703 -1 -24122 44704 2.000000
+-24122 44704 0 0 -1
+#
+New placement, responsible=-1
+New placement, responsible=-1
+Got length 91 message
+PU
+226095 350 0 0 0 0 0 0 0 0 -1 0.07 1 0 -27665 41898 14.14 60.00 3.75 0;0;0;0;0;0 0 0 -1
+
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=15, pY=15, heldTransSrcID=-1, holdingString=0
+Holding PU message for 226095 until later, 0 other messages pending for them
+Playing 1 pending received messages for 226095
+Reached dest 0.012000 seconds early
+Playing a held pending message
+Got length 92 message
+PU
+226095 350 0 0 0 0 0 0 0 0 -1 0.07 1 0 -27665 41898 14.14 60.00 3.75 0;0;0;0;0;0 0 0 -1
+#
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=15, pY=15, heldTransSrcID=-1, holdingString=0
+Got length 115 message
+PU
+226095 350 1 1 -27664 41898 -226097 1 -27664 41898 -1 0.07 1 0 -27665 41898 14.14 60.00 3.75 0;0;0;0;0;0 0 0 -1
+
+PLAYER_UPDATE with heldOrVal=1, heldOrx=16, heldOry=15, pX=15, pY=15, heldTransSrcID=-1, holdingString=-226097
+Got length 23 message
+FX
+4 4 0 0 2.81 226095
+
+Our food = 4/4
+Got length 105 message
+PU
+225829 350 0 0 -18374 23560 0 0 0 0 -1 0.35 0 0 X X 24.82 60.00 3.75 0;0;0;0;0;0 0 0 -1 reason_hunger
+
+Playing 0 pending received messages for 225829     (skipping those that don't affect other players or map)
+First map load done
+Starting music at age 0.063300
+Got compressed message header:
+CM
+859 299
+
+
+Got length 859 message
+MX
+-25325 43740 0 707 -1 -25328 43740 2.000000
+-25328 43740 0 0 -1
+-18349 23561 0 764 -1 -18345 23565 2.000000
+-18345 23565 0 0 -1
+-25336 43736 0 703 -1 -25334 43738 2.000000
+-25334 43738 0 0 -1
+-27663 41894 0 51 -1
+-28039 40852 0 164 -1
+-24128 44704 0 703 -1 -24126 44702 2.000000
+-24126 44702 0 0 -1
+-28043 40875 0 166 -1
+-28017 40859 0 166 -1
+-28021 40866 0 166 -1
+-28019 40867 0 166 -1
+-24087 44686 0 946 -1 -24089 44686 4.000000
+-24089 44686 0 0 -1
+-25327 43742 0 707 -1 -25329 43744 2.000000
+-25329 43744 0 0 -1
+-28028 40866 0 165 -1
+-24083 44695 0 946 -1 -24085 44693 4.000000
+-24085 44693 0 0 -1
+-18423 25447 0 950 -1 -18425 25447 2.000000
+-18425 25447 0 0 -1
+-27116 27129 0 703 -1 -27114 27127 2.000000
+-27114 27127 0 0 -1
+-18424 25453 0 703 -1 -18422 25455 2.000000
+-18422 25455 0 0 -1
+-27673 41904 0 51 -1
+-23273 35182 0 398 -1
+8961 34542 0 51 -1
+#
+New placement, responsible=-1
+New placement, responsible=-1
+Frame rate = 62.460968 frames/second
+Playing 0 pending received messages for 226076
+Reached dest -0.083000 seconds early
+Got compressed message header:
+CM
+1347 459
+
+
+Got length 1347 message
+MX
+-25334 43732 0 703 -1 -25332 43734 2.000000
+-25332 43734 0 0 -1
+-17746 24690 0 707 -1 -17744 24688 2.000000
+-17744 24688 0 0 -1
+-27663 41891 0 51 -1
+-27663 41900 0 51 -1
+-28024 40857 0 165 -1
+-18431 25466 0 707 -1 -18429 25468 2.000000
+-18429 25468 0 0 -1
+-24119 44666 0 703 -1 -24121 44664 2.000000
+-24121 44664 0 0 -1
+-18428 25452 0 940 -1 -18430 25450 4.000000
+-18430 25450 0 0 -1
+-28020 40865 0 166 -1
+-30297 42111 0 418 -1 -30293 42115 4.000000
+-30293 42115 0 0 -1
+-23549 29023 0 956 -1 -23551 29021 2.000000
+-23551 29021 0 0 -1
+-18339 23585 0 769 -1 -18344 23580 8.000000
+-18344 23580 0 0 -1
+-23576 29030 0 955 -1 -23574 29032 2.000000
+-23574 29032 0 0 -1
+-25331 43728 0 707 -1 -25329 43730 2.000000
+-25329 43730 0 0 -1
+-23561 29041 0 769 -1 -23557 29045 8.000000
+-23557 29045 0 0 -1
+-28827 40401 0 51 -1
+-29704 41965 0 947 -1 -29704 41963 4.000000
+-29704 41963 0 0 -1
+-24131 44674 0 703 -1 -24129 44672 2.000000
+-24129 44672 0 0 -1
+-18433 25458 0 938 -1 -18435 25458 4.000000
+-18435 25458 0 0 -1
+-27103 27171 0 707 -1 -27101 27173 2.000000
+-27101 27173 0 0 -1
+-25860 39672 0 52 -1
+-25333 43724 0 703 -1 -25331 43726 2.000000
+-25331 43726 0 0 -1
+-18397 25567 0 141 -1
+-20744 36037 0 50 -1
+-18394 25593 0 51 -1
+-23568 29018 0 418 -1 -23564 29022 4.000000
+-23564 29022 0 0 -1
+-25874 39674 0 51 -1
+-20713 36031 0 52 -1
+-23237 40762 0 51 -1
+#
+New placement, responsible=-1
+New placement, responsible=-1
+Got length 41 message
+PM
+226095 -27665 41898 0.267 0.267 0 1 0
+
+Manually forced
+fixed speed = 0.062422
+Got length 45 message
+PM
+226095 -27665 41898 0.533 0.533 0 1 0 2 0
+
+fixed speed = 0.062539
+Frame rate = 62.499994 frames/second
+Got length 88 message
+PU
+226098 352 0 0 0 0 0 0 0 0 -1 0.54 1 0 8946 34522 0.00 60.00 2.81 0;0;0;0;0;0 0 0 -1
+
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=36626, pY=-7361, heldTransSrcID=-1, holdingString=0
+Got length 115 message
+LN
+226098 225919 225603 225460 225166 224960 224593 224412 224186 223799 223618 223532 223312 223145 223003 222815
+
+Got compressed message header:
+CM
+859 292
+
+
+Got length 859 message
+MX
+-30290 42092 0 764 -1 -30294 42092 2.000000
+-30294 42092 0 0 -1
+-27662 41897 0 51 -1
+-24198 44893 0 165 -1
+-24122 44704 0 703 -1 -24124 44702 2.000000
+-24124 44702 0 0 -1
+-24121 44666 0 703 -1 -24119 44664 2.000000
+-24119 44664 0 0 -1
+-24110 44666 0 707 -1 -24112 44664 2.000000
+-24112 44664 0 0 -1
+-24135 44673 0 703 -1 -24133 44671 2.000000
+-24133 44671 0 0 -1
+-18431 25456 0 707 -1 -18433 25456 2.000000
+-18433 25456 0 0 -1
+-28046 40875 0 707 -1 -28048 40877 2.000000
+-28048 40877 0 0 -1
+-18422 25450 0 703 -1 -18424 25452 2.000000
+-18424 25452 0 0 -1
+-18419 25456 0 707 -1 -18417 25454 2.000000
+-18417 25454 0 0 -1
+-17472 52357 0 175 -1
+-24196 44874 0 418 -1 -24200 44870 4.000000
+-24200 44870 0 0 -1
+-28020 40858 0 166 -1
+-29703 41947 0 703 -1 -29705 41949 2.000000
+-29705 41949 0 0 -1
+-23272 35182 0 398 -1
+-23588 29055 0 52 -1
+-27670 41891 0 51 -1
+#
+New placement, responsible=-1
+New placement, responsible=-1
+Playing 0 pending received messages for 226095
+Reached dest 0.086000 seconds early
+Got length 115 message
+PU
+226095 350 0 0 -27664 41898 -226097 0 -27664 41898 -1 0.07 1 0 -27663 41898 14.19 60.00 3.75 0;0;0;0;0;0 0 0 -1
+
+PLAYER_UPDATE with heldOrVal=0, heldOrx=16, heldOry=15, pX=17, pY=15, heldTransSrcID=-1, holdingString=-226097
+Got length 88 message
+PU
+226099 353 0 0 0 0 0 0 0 0 -1 0.07 1 0 1339 46028 0.00 60.00 2.81 0;0;0;0;0;0 0 0 -1
+
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=29019, pY=4145, heldTransSrcID=-1, holdingString=0
+Got length 73 message
+LN
+226099 225780 225562 225387 225093 224756 224621 224510 224249 224046
+
+Sending message to server: MOVE 16 15 1 0#
+Got length 202 message
+PU
+226013 350 0 1 -24187 44878 -226082 1 -24187 44878 -1 0.32 1 0 -24187 44879 19.11 60.00 3.75 0;0;0;0;0;0 0 0 -1
+226097 355 0 0 0 0 0 0 0 0 -1 0.07 1 0 -27663 41898 0.12 60.00 2.81 0;0;0;0;0;0 0 0 -1
+
+PLAYER_UPDATE with heldOrVal=1, heldOrx=3493, heldOry=2995, pX=3493, pY=2996, heldTransSrcID=-1, holdingString=-226082
+PLAYER_UPDATE with heldOrVal=0, heldOrx=27680, heldOry=-41883, pX=17, pY=15, heldTransSrcID=-1, holdingString=0
+Baby dropped
+Playing 0 pending received messages for 226097
+Got compressed message header:
+CM
+644 245
+
+
+Got length 644 message
+MX
+-24128 44702 0 703 -1 -24128 44704 2.000000
+-24128 44704 0 0 -1
+-30284 42111 0 51 -1
+-18349 23571 0 764 -1 -18353 23575 2.000000
+-18353 23575 0 0 -1
+-18438 25482 0 707 -1 -18436 25480 2.000000
+-18436 25480 0 0 -1
+-24124 44662 0 707 -1 -24125 44661 2.000000
+-24125 44661 0 0 -1
+-24130 44657 0 703 -1 -24132 44659 2.000000
+-24132 44659 0 0 -1
+-28022 40861 0 165 -1
+-27668 41886 0 164 -1
+-18425 25449 0 531 -1 -18423 25447 4.000000
+-18423 25447 0 0 -1
+-18426 25455 0 703 -1 -18424 25453 2.000000
+-18424 25453 0 0 -1
+-25868 39674 0 52 -1
+-28025 40865 0 164 -1
+-25867 39672 0 52 -1
+-18393 25593 0 51 -1
+-27667 41903 0 51 -1
+-23236 40745 0 51 -1
+#
+New placement, responsible=-1
+New placement, responsible=-1
+Frame rate = 62.460959 frames/second
+Got length 20 message
+NM
+226090 MAY AMAYA
+
+Got compressed message header:
+CM
+1331 451
+
+
+Got length 1331 message
+MX
+-18426 25487 0 942 -1 -18428 25485 4.000000
+-18428 25485 0 0 -1
+1346 46038 0 292 -225960
+-24133 44672 0 703 -1 -24131 44674 2.000000
+-24131 44674 0 0 -1
+-28019 40867 0 165 -1
+-28021 40881 0 764 -1 -28021 40877 2.000000
+-28021 40877 0 0 -1
+-18356 23568 0 764 -1 -18354 23566 2.000000
+-18354 23566 0 0 -1
+-23572 29022 0 418 -1 -23568 29018 4.000000
+-23568 29018 0 0 -1
+-18433 25468 0 707 -1 -18431 25466 2.000000
+-18431 25466 0 0 -1
+-17744 24692 0 707 -1 -17746 24690 2.000000
+-17746 24690 0 0 -1
+-18426 25452 0 939 -1 -18428 25452 4.000000
+-18428 25452 0 0 -1
+-24118 44667 0 718 -1 -24119 44666 4.000000
+-24119 44666 0 0 -1
+-28043 40875 0 165 -1
+-28017 40859 0 165 -1
+-27652 41903 0 164 -1
+-28018 40865 0 165 -1
+-18333 23591 0 769 -1 -18339 23585 8.000000
+-18339 23585 0 0 -1
+-23549 29021 0 955 -1 -23549 29023 2.000000
+-23549 29023 0 0 -1
+8940 34535 0 51 -1
+-29704 41967 0 946 -1 -29704 41965 4.000000
+-29704 41965 0 0 -1
+-23573 29027 0 954 -1 -23576 29030 2.000000
+-23576 29030 0 0 -1
+-23565 29037 0 769 -1 -23561 29041 8.000000
+-23561 29041 0 0 -1
+-27101 27173 0 707 -1 -27103 27171 2.000000
+-27103 27171 0 0 -1
+-18435 25456 0 937 -1 -18433 25458 4.000000
+-18433 25458 0 0 -1
+-28828 40396 0 51 -1
+-24122 44690 0 164 -1
+-27456 38849 0 51 -1
+-28830 40405 0 51 -1
+-12065 33792 0 764 -1 -12069 33788 2.000000
+-12069 33788 0 0 -1
+#
+New placement, responsible=-1
+Total received = 8206 bytes (+1664 in headers), total sent = 191 bytes (+156 in headers)
